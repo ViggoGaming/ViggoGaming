@@ -11,7 +11,7 @@
 - 💻 &nbsp; Python | Java | C
 - 🌐 &nbsp; HTML | CSS | JavaScript | TypeScript | ReactJS
 - 🔧 &nbsp; Linux | Git | Docker | VS Code | Unreal Engine | Markdown | LaTeX 
-- 🖥 &nbsp; Photoshop | InDesign
+- 🖥 &nbsp; Photoshop | Figma
 
 <br/>
 
