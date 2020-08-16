@@ -3,7 +3,7 @@
 <h3> 💻 About Me </h3>
 
 - 🎓 &nbsp; Studying at HTX Sukkertoppen 
-- ⌨ My favorite programming language is Python 3.
+- ⌨ &nbsp; My favorite programming language is Python 3.
 - 🌱 &nbsp; I am always learning new things!
 
 <h3>🛠 Tech Stack</h3>
