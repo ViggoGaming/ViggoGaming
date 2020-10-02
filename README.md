@@ -2,7 +2,7 @@
 
 <h3> 💻 About Me </h3>
 
-- 🎓 &nbsp; Studying at HTX Sukkertoppen 
+- 🎓 &nbsp; Studying at HTX Sukkertoppen.
 - ⌨ &nbsp; My favorite programming language is Python 3.
 - 🌱 &nbsp; I am always learning new things!
 
@@ -10,7 +10,7 @@
 
 - 💻 &nbsp; Python | Java | C
 - 🌐 &nbsp; HTML | CSS | JavaScript | TypeScript | ReactJS
-- 🔧 &nbsp; Linux | Git | Docker | VS Code | Unreal Engine | Markdown | LaTeX 
+- 🔧 &nbsp; Linux | Git | Docker | VS Code | Unreal Engine | Markdown | LaTeX
 - 🖥 &nbsp; Photoshop | Figma
 
 <br/>
